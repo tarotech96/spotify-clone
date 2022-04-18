@@ -5,4 +5,3 @@ declare namespace NodeJS {
     JWT_SECRET: string;
   }
 }
-
